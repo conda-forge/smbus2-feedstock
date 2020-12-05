@@ -5,11 +5,9 @@ Home: https://github.com/kplindegaard/smbus2
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/smbus2-feedstock/blob/master/LICENSE.txt)
 
 Summary: smbus2 is a drop-in replacement for smbus-cffi/smbus-python in pure Python
-
-
 
 Current build status
 ====================
