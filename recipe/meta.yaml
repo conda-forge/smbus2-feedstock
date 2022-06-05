@@ -1,5 +1,5 @@
 {% set name = "smbus2" %}
-{% set version = "0.4.1" %}
+{% set version = "0.4.2" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/smbus2-{{ version }}.tar.gz
-  sha256: 6276eb599b76c4e74372f2582d2282f03b4398f0da16bc996608e4f21557ca9b
+  sha256: 634541ed794068a822fe7499f1577468b9d4641b68dd9bfb6d0eb7270f4d2a32
 
 build:
   number: 0
